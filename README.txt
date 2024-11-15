@@ -6,6 +6,7 @@ This project demonstrate a Convolutional Neural Network (CNN) using Keras in bot
 
 ## Files Included
 - Fashion MNIST Classification.py: Python script for running the CNN model.
+- Fashion_mnist classification.R: R script for running the model
 - README.txt: instructions on how to use the code.
 
 
@@ -18,7 +19,7 @@ This project demonstrate a Convolutional Neural Network (CNN) using Keras in bot
   
 
 ##Usage
-1.Ensure you install the required packages using the following command:
+1. Ensure you install the Python required packages using the following command:
 pip install tensorflow numpy matplotlib
 2.  Install these packages using the following commands in R:
    install.packages("tensorflow")
